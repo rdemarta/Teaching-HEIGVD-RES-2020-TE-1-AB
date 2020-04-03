@@ -8,7 +8,7 @@ A vous de jouer.
 
 ## XXX
 
-A vous de structurer ce document, en utilisant plusieurs sections.
+A vous de structurer ce document, en utilisant plusieurs sections. Une de ces sections doit être consacrée à la gestion de l'état, où vous nous expliquez si votre protocole est avec ou sans état, et pourquoi.
 
 ## Remarques
 
