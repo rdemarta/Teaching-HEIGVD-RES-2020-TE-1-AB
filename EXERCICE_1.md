@@ -30,7 +30,7 @@ Pour cette raison, nous voulons **développer une application client-serveur** q
 
 Pour cette raison, on vous demande de concevoir et spécifier "**J**okes give h**O**pe during the **C**ovid **C**onfinement period" (**JOCC**), un nouveau protocole applicatif. **JOCC a pour objectif de régir les interactions entre les clients et les serveurs JOCC.**
 
-**Attention**: vous devez vous limiter à la spécification du protocole, **en faisant bien la différence** entre ce qui appartient à cette spécification, et ce qui appartient à l'implémentation des clients et des serveurs.
+**Attention**: vous devez vous limiter à la spécification du protocole, **en faisant bien la différence** entre ce qui appartient à cette spécification, et ce qui appartient à l'implémentation des clients et des serveurs (et nous sommes intéressés uniquement par la spécification du protocole).
 
 **Il n'y a pas une seule manière de spécifier le protocole, et nous voulons justement voir comment vous allez faire des propositions différentes**. Par exemple, c'est à vous de décider ce que "évaluation" veut dire concrètement. C'est à vous de faire des choix et de les transcrire dans votre spécification. Prenez juste le temps d'expliquer ces choix.
 
