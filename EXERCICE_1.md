@@ -36,7 +36,7 @@ Pour cette raison, on vous demande de concevoir et spécifier "**J**okes give h*
 
 **Il est possible spécifier un protocole AVEC ou SANS état**. Vous pouvez choisir le modèle que vous préférez, mais vous devez indiquer votre choix et expliquer POURQUOI votre protocole est effectivement AVEC ou SANS état.
 
-##Marche à suivre
+## Marche à suivre
 
 Vous devez livrer votre spécification dans le fichier `JOCC-SPEC.md`, qui se trouve dans le dossier `livrables`. 
 
